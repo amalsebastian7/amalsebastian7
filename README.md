@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Finstagram.com/_amalsebastian)](https://instagram.com/_amalsebastian)
 [![Twitter Follow](https://img.shields.io/twitter/follow/7amalsebastian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F7amalsebastian&screen_name=amalsebastian)
 
-## I'm a Programmer ,Footballer, Data scientist, and Gamer!!
+## I'm a Programmer ,Footballer, Data scientist, and a Gamer!!
 
 - 🔭 I just Passed my Bachelors :2020-dec
 - 🌱 I’m currently learning everything 🤣
