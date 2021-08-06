@@ -1,5 +1,5 @@
 ### Hi there, I'm Amal -[Amal Sebastian]👋
-
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 [![Instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Finstagram.com/_amalsebastian)](https://instagram.com/_amalsebastian)
 [![Twitter Follow](https://img.shields.io/twitter/follow/7amalsebastian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F7amalsebastian&screen_name=amalsebastian)
 
