@@ -2,7 +2,7 @@
 
 <img src="https://camo.githubusercontent.com/671dc342a4ca8957b968127f222cda0590ced21b4d0d2049ec06a4483c866841/68747470733a2f2f692e696d6775722e636f6d2f745a31345a6e722e676966" width="1" height="1" />
 
-<img src="https://64.media.tumblr.com/cb5e29dacdd0c30a2f02779b328fbf11/e820bbb2e5a1cdbb-39/s2048x3072/1502cb3081c2d9eab437c6bb1fb4d52c6a849245.gif" width="800" height="300" />
+<img src="https://64.media.tumblr.com/cb5e29dacdd0c30a2f02779b328fbf11/e820bbb2e5a1cdbb-39/s2048x3072/1502cb3081c2d9eab437c6bb1fb4d52c6a849245.gif" width="800" height="400" />
 
 [![Instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Finstagram.com/_amalsebastian)](https://instagram.com/_amalsebastian)
 [![Twitter Follow](https://img.shields.io/twitter/follow/7amalsebastian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F7amalsebastian&screen_name=amalsebastian)
