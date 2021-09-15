@@ -6,8 +6,8 @@
 
 ## I'm a Programmer ,Footballer, Data scientist, and a Gamer!!
 
-- 🔭 I just Passed my Bachelors :2020-dec
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Completed my Bachelors in :2020-dec
+- 🌱 I’m currently learning..... everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and copy things until i master it.
