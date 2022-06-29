@@ -6,11 +6,11 @@
 
 ## I'm a Programmer ,Footballer, Data scientist, and a Gamer!!
 
-- 🔭 Completed my Bachelors in :2020-dec
-- 🌱 I’m currently learning..... everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw.
+- 🔭 Bachelors in computer applications [Bangalore University]
+- 🌱 Masters in Data science [University of Aberdeen]
+- 👯 Currently learning Ai Development and Data Engineering
+- 🥅 2022 Goals:Develop more end to end projects and be active in Github,Leetcode and Stackoverflow
+- ⚡ Fun fact: I love to draw,hike,play football,volleyball,basketball.
 
 ### Connect with me:
 
