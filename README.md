@@ -1,24 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Amal%20Sebastian&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn" width="100%" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Junior+Data+Analyst;Backend+Automation+Expert;Java+%26+SQL+Specialist" alt="Typing SVG" />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Role-Data_Analyst_%26_Software_Engineer-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Focus-Backend_Automation-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Location-Aberdeen,_UK-red?style=for-the-badge" />
-  </p>
 </div>
 
----
 
-### 💡 The Objective
-> **Software Engineer & Junior Data Analyst** at the **University of Aberdeen/NHS Grampian**. 
-> I specialize in bridge-building: connecting complex health data to actionable insights through robust Java automation and Python analytics.
 
----
-
-### 🛠️ High-Demand Technical Arsenal
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,aws,docker,linux,git,github,idea,postman,r" />
 </div>
@@ -53,8 +40,6 @@
 * **The Impact:** Empowered clinicians with **PowerBI** dashboards for real-time patient care insights.
 
 ---
-
-
 ### 🏡 Personal Lab: Home Server & Automation
 *Developing a resilient, self-hosted infrastructure for home orchestration.*
 
@@ -117,11 +102,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/amalsebastian7/amalsebastian7/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</div>
 
 ---
 <p align="center">
   <i>"Turning complex data into robust, automated solutions."</i>
 </p>
+
