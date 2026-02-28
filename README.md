@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn" width="100%" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Junior+Data+Analyst;Backend+Automation+Expert;Java+%26+SQL+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Analyst;Backend+Automation+Expert;Java+%26+SQL+Specialist" alt="Typing SVG" />
 </div>
 
 
@@ -107,4 +107,5 @@
 <p align="center">
   <i>"Turning complex data into robust, automated solutions."</i>
 </p>
+
 
