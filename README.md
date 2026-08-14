@@ -69,9 +69,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             58 mins               ████████████████░░░░░░░░░   63.75 %
-Markdown         32 mins               █████████░░░░░░░░░░░░░░░░   35.77 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Java             10 hrs 6 mins         █████████████████▓░░░░░░░   71.01 %
+Python           2 hrs 5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Markdown         2 hrs 1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
