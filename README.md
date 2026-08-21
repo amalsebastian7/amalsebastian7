@@ -55,12 +55,11 @@
 * **The Goal:** A secure, local-first ecosystem for containerized media services, automated SQL backups, and IoT edge computing.
 
 ---
-
 ### 📊 Performance & Consistency
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amalsebastian7&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalsebastian7&amp;theme=tokyonight&amp;hide_border=false" width="49%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=amalsebastian7&amp;theme=tokyonight&amp;hide_border=false" width="49%" alt="GitHub Streak" />
 </div>
 
 <br/>
